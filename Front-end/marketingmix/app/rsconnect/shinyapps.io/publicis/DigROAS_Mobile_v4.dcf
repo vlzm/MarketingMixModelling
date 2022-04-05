@@ -1,0 +1,12 @@
+name: DigROAS_Mobile_v4
+title: DigROAS_Mobile_v4
+username:
+account: publicis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3448629
+bundleId: 4065788
+url: https://publicis.shinyapps.io/DigROAS_Mobile_v4/
+when: 1609963573.11204
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: DigROAS_Mobile_30122020_shinymanager_auth
+title: DigROAS_Mobile_30122020_shinymanager_auth
+username:
+account: publicis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3435983
+bundleId: 4042665
+url: https://publicis.shinyapps.io/DigROAS_Mobile_30122020_shinymanager_auth/
+when: 1609343227.88658
+asMultiple: FALSE
+asStatic: FALSE
