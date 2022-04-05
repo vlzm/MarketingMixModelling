@@ -1,0 +1,19 @@
+﻿Media;Type;Value;Share;Total;Label;Position;;;1000000
+IMP_display_hienz_budget;Budget (max profit);75;12.5418060200669;598;12.5418060200669%;;;;
+IMP_olv_hienz_budget;Budget (max profit);121;20.2341137123746;598;20.2341137123746%;;;;
+IMP_agents_budget;Budget (max profit);87;14.5484949832776;598;14.5484949832776%;;;;
+IMP_social_hienz_budget;Budget (max profit);79;13.2107023411371;598;13.2107023411371%;;;;
+TV_hienz_budget;Budget (max profit);140;23.4113712374582;598;23.4113712374582%;;;;
+TV_sponsor_hienz_budget;Budget (max profit);96;16.0535117056856;598;16.0535117056856%;;;;
+IMP_display_hienz_budget;Optimised budget;4;4.04040404040404;99;4.04040404040404%;;;;
+IMP_olv_hienz_budget;Optimised budget;33;33.3333333333333;99;33.3333333333333%;;;;
+IMP_agents_budget;Optimised budget;16;16.1616161616162;99;16.1616161616162%;;;;
+IMP_social_hienz_budget;Optimised budget;8;8.08080808080808;99;8.08080808080808%;;;;
+TV_hienz_budget;Optimised budget;0;0;99;0,00%;;;;
+TV_sponsor_hienz_budget;Optimised budget;38;38.3838383838384;99;38.3838383838384%;;;;
+IMP_display_hienz_budget;Actual budget;11;5.52763819095477;199;5.52763819095477%;;;;
+IMP_olv_hienz_budget;Actual budget;14;7.03517587939699;199;7.03517587939699%;;;;
+IMP_agents_budget;Actual budget;21;10.5527638190955;199;10.5527638190955%;;;;
+IMP_social_hienz_budget;Actual budget;7;3.51758793969849;199;3.51758793969849%;;;;
+TV_hienz_budget;Actual budget;142;71.356783919598;199;71.356783919598%;;;;
+TV_sponsor_hienz_budget;Actual budget;4;2.01005025125628;199;2.01005025125628%;;;;
